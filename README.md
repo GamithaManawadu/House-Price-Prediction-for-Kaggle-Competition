@@ -2,6 +2,11 @@
 
 A comprehensive machine learning pipeline for predicting house prices on the Ames Housing dataset using **advanced feature engineering, regression models, and stacked ensemble learning**.
 
+<p align="center">
+  <img src="images/ranking.png" width="48%">
+  <img src="images/CVRMSE.png" width="48%">
+</p>
+
 **Competition:** Kaggle House Prices: Advanced Regression Techniques
 **Dataset:** 1,460 training houses with 79 explanatory variables + 1,459 test houses.
 
