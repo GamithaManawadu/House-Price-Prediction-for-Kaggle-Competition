@@ -156,7 +156,7 @@ Combining diverse models reduces variance and captures complementary patterns in
 Clone the repository:
 
 ```bash
-git clone https://github.com/house-price-prediction.git
+git clone https://github.com/GamithaManawadu/House-Price-Prediction-for-Kaggle-Competition.git
 cd house-price-prediction
 ```
 
