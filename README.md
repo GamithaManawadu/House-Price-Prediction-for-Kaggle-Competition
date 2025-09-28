@@ -10,7 +10,7 @@ A comprehensive machine learning pipeline for predicting house prices on the Ame
 **Competition:** Kaggle House Prices: Advanced Regression Techniques
 **Dataset:** 1,460 training houses with 79 explanatory variables + 1,459 test houses.
 
-> **💡 [View the Interactive Explanation →](https://htmlpreview.github.io/?https://github.com/GamithaManawadu/Sentiment-Analysis-TF-IDF-vs-BERT/blob/main/Explanations/house-prices-explained.html)**
+> **💡 [View the Interactive Explanation →](https://htmlpreview.github.io/?https://github.com/GamithaManawadu/House-Price-Prediction-for-Kaggle-Competition/blob/main/Explanations/house-prices-explained.html)**
 
 ---
 
